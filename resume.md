@@ -1,8 +1,8 @@
-# Nathaniel Welch
+# Nikita Dudnik
 
- * <nat@natwelch.com>
- * <http://natwelch.com>
- * 707-799-8675
+ * <nikdudnik@gmail.com>
+ * <http://nikdudnik.com>
+ * 903-758-1022
 
 ## Background
 
