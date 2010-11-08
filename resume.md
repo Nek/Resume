@@ -4,6 +4,8 @@
  * <http://nikdudnik.com>
  * 903-758-1022
 
+### ATTENTION WORK IN PROGRESS The following info is not mine.
+
 ## Background
 
 I am a current student of Computer Science at Cal Poly with an interest in
