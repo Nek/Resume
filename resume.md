@@ -4,17 +4,16 @@
  * <http://nikdudnik.com>
  * 903-758-1022
 
-### ATTENTION WORK IN PROGRESS The following info is not mine.
+### ATTENTION WORK IN PROGRESS The following text is a mixup of resume template and a real info.
 
 ## Background
 
-I am a current student of Computer Science at Cal Poly with an interest in
-communication and design. I am a big believer in experimenting with new things
-to expand my knowledge both professionally and recreationally. I strive to be a
-quick learner and both a competent leader and capable worker. I am an Eagle
-Scout and was an active officer of the Cal Poly Linux Users Group for three
-years. I was awarded Cal Poly's Residence Hall Council member of the year for
-both 2006 and 2007.
+I am currently working at http://ghcg.com making adobe flex/air user interfaces 
+for automated trading systems. My interest is concise creation of human usable software.
+I believe that good development practices is the only way to deal with complex projects.
+But I also believe that the only way to move the practices forward and create new ones is by experimentation. 
+I interested in many things which involve perception...
+
 
 ## Education
 
@@ -26,13 +25,14 @@ California Polytechnic State University, San Luis Obispo
 
 **Programming Languages**
 
- > Proficient in:  PHP, Ruby, SML/NJ, HTML, CSS, JavaScript, C, Java, SQL (MySQL, SQLite), Bash
+ > Proficient in:  ActionScript 1/2/3, Flex 3/4, HTML, CSS, JavaScript
 
- > Experience with: F#, Python, C++, MongoDB
+ > Experience with: PHP, Ruby, CouchDB
 
 **Software**
 
- > I have experience using most modern development tools including Eclipse, Vim, Git and SVN. I have been using Linux for both personal and server use since 2002. I am also capable of using the majority of the Adobe Creative Suite.
+ > I have experience using most of the IDEs for flash development including Flash Builder, FDT, FlashDevelop. My current tool of choice is IntelliJ Idea. For simple coding tasks I really like to use TextMate. I am experienced OS X user. Sometimes I use Linux and I try to avoid Windows as much as possible.
+ > I consider myself an experienced Flash IDE user. I also have experience of other Adobe Creative Suite applications related to graphic and motion design.
 
 ## Experience
 
