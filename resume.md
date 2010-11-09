@@ -12,12 +12,6 @@ I am currently working at <http://ghcg.com> making Adobe Flex/Air user interface
 for automated trading systems. My interest is concise creation of human usable software.
 I believe that good development practices is the way to deal with ever growing complexity of today's software projects. But you gotta be smart and don't make the practices your dogma. You need to experiment sometimes to improve the current practices and create the new ones. 
 
-## Education
-
-Moscow State University of Electronics and Mathematics
-Systems and Networks, B.S.  
-Fall 1997 - Spring 1998 (Not Finished)  
-
 ## Systems Proficiency
 
 **Programming Languages**
@@ -32,6 +26,44 @@ Fall 1997 - Spring 1998 (Not Finished)
  > I consider myself an experienced Flash IDE user. I also have experience of other Adobe Creative Suite applications related to graphic and motion design.
 
 ## Experience
+
+
+### Global Hedge Capital Group
+
+#### Senior Flex Developer
+
+##### May 2010 – Present
+
+The development of adobe air front-ends for in-house automated trade exchange system.
+
+ * Successfully finished several UI projects. 
+ * Introduced acceptance testing in to the workflow.
+ * Introduced test driven development in to the workflow.
+ * Created an automated deploy system for air front-ends. 
+
+### Creatent
+
+#### Senior Flash Developer
+
+##### February 2010 – May 2010
+
+The development and support of flash games for the major Russian social networks.
+
+ * Created UIs for one of the company's games.
+ * Ported one of the company's games from the <http://vk.com> to <http://http://my.mail.ru>.
+
+### CyberHULL
+
+#### October 2009 – December 2009
+
+Support and development of the <http://skinit.com> skins editor.
+
+ * Fixed a plenty of bugs on the client and server sides.
+ * Implemented several new UI features.
+
+
+
+-------------------CUT-----------------
 
 ### iFixit.com, San Luis Obispo CA
 
@@ -89,4 +121,7 @@ I wear a variety of hats including -- but not limited to -- writing code to prom
  * Taught merit badge classes such as wilderness survival, camping, hiking, and others.
  * Dealt with their scoutmasters, which were usually older adults around the age of 40 to 60
  * Dealt with medical emergencies ranging from altitude sickness and dehydration to broken ribs.
+
+
+
 
