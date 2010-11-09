@@ -54,12 +54,76 @@ The development and support of flash games for the major Russian social networks
 
 ### CyberHULL
 
-#### October 2009 – December 2009
+#### Senior Flash Developer 
+
+##### October 2009 – December 2009
 
 Support and development of the <http://skinit.com> skins editor.
 
  * Fixed a plenty of bugs on the client and server sides.
  * Implemented several new UI features.
+
+### Datech
+
+#### IT/UX Consultant
+
+##### September 2007 – January 2009
+
+Design and production management of online television website with social networking capabilities <http://rts.fm>. 
+
+ * Designed branding and UI.
+ * Found team of developers.
+ * Written part of the technical requirements.
+ * Quality controlled front end of the site.
+ * Made videoart for the site and VJed live :)
+ * Improved UX of other company's products.
+
+### Odnako
+
+#### Flash Developer/Motion Designer
+
+##### July 2006 – January 2007
+
+Flash development, motion design, multimedia development of promo sites, presentations, rich media banners for world renown brands. 
+
+ * Developed promo web sites and CD presentations.
+ * Developed virus maketing flash games.
+
+### Zero
+
+#### Flash Developer/Motion Designer
+
+##### March 2004 – August 2004 (6 months)
+
+Flash sites and games development and animation for world renown brands. 
+
+ * Developed flash animations and promo sites.
+ * Developed two flash games.
+
+### ArtStyle Group
+
+#### Multimedia Developer/Web Designer
+
+##### April 2003 – January 2004
+
+Web design, flash and director development, motion design. 
+
+ * Designed web sites
+ * Designed and developed flash presentations. 
+ * Designed and developed multimedia cd with interactive 3d interface.
+
+### Art. Lebedev Studio
+
+#### Flash Developer
+
+##### November 2001 – October 2002
+
+Flash development and animation.
+
+ * Developed flash web sites
+ * Developed cd presentations
+ * Developed interfaces for multimedia kiosks
+
 
 
 
