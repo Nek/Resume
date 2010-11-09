@@ -8,18 +8,15 @@
 
 ## Background
 
-I am currently working at http://ghcg.com making adobe flex/air user interfaces 
+I am currently working at <http://ghcg.com> making Adobe Flex/Air user interfaces 
 for automated trading systems. My interest is concise creation of human usable software.
-I believe that good development practices is the only way to deal with complex projects.
-But I also believe that the only way to move the practices forward and create new ones is by experimentation. 
-I interested in many things which involve perception...
-
+I believe that good development practices is the way to deal with ever growing complexity of today's software projects. But you gotta be smart and don't make the practices your dogma. You need to experiment sometimes to improve the current practices and create the new ones. 
 
 ## Education
 
-Computer Science, B.S.  
-Fall 2006 - Spring 2011  
-California Polytechnic State University, San Luis Obispo  
+Moscow State University of Electronics and Mathematics
+Systems and Networks, B.S.  
+Fall 1997 - Spring 1998 (Not Finished)  
 
 ## Systems Proficiency
 
