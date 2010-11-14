@@ -13,7 +13,7 @@ user_config:
    pic: 'http://a2.twimg.com/profile_images/43290242/6_reasonably_small.jpg'
 
    # The google analytics key you wish to use.
-   gkey: 'UA-333449-7'
+   gkey: 'UA-7101726-5'
 
 # For github pages to work, this needs to be the GitHub repository this file is
 # storred in.
