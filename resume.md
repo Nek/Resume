@@ -63,7 +63,7 @@ Support and development of the <http://skinit.com> skins editor.
 
 ### Datech
 
-#### IT/UX Consultant
+#### IT Consultant, UX Consultant
 
 ##### September 2007 – January 2009
 
@@ -78,7 +78,7 @@ Design and production management of online television website with social networ
 
 ### Odnako
 
-#### Flash Developer/Motion Designer
+#### Flash Developer, Motion Designer
 
 ##### July 2006 – January 2007
 
@@ -89,7 +89,7 @@ Flash development, motion design, multimedia development of promo sites, present
 
 ### Zero
 
-#### Flash Developer/Motion Designer
+#### Flash Developer, Motion Designer
 
 ##### March 2004 – August 2004 (6 months)
 
@@ -100,7 +100,7 @@ Flash sites and games development and animation for world renown brands.
 
 ### ArtStyle Group
 
-#### Multimedia Developer/Web Designer
+#### Multimedia Developer, Web Designer
 
 ##### April 2003 – January 2004
 
