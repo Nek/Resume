@@ -4,8 +4,6 @@
  * <http://nikdudnik.com>
  * 903-758-1022
 
-### ATTENTION WORK IN PROGRESS The following text is a mixup of resume template and a real info.
-
 ## Background
 
 I am currently working at <http://ghcg.com> making Adobe Flex/Air user interfaces 
