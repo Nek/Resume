@@ -8,7 +8,7 @@
 
 I am currently working at <http://ghcg.com> making Adobe Flex/Air user interfaces 
 for automated trading systems. My interest is concise creation of human usable software.
-I believe that good development practices is the way to deal with ever growing complexity of today's software projects. But you gotta be smart and don't make the practices your dogma. You need to experiment sometimes to improve the current practices and create the new ones. 
+I believe that good development practices is the way to deal with ever growing complexity of today's software projects. But you have to be smart and don't make practices your dogma. Sometimes you need to experiment to improve your style of development. 
 
 ## Systems Proficiency
 
