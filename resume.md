@@ -20,7 +20,7 @@ I believe that good development practices is the way to deal with ever growing c
 
 **Software**
 
- > I have experience using most of the IDEs for flash development including Flash Builder, FDT, FlashDevelop. My current tool of choice is IntelliJ Idea. For simple coding tasks I really like to use TextMate. I am experienced OS X user. Sometimes I use Linux and I try to avoid Windows as much as possible.
+ > I have experience using most of the IDEs for flash development including Flash Builder, FDT, FlashDevelop. My current tool of choice is IntelliJ Idea. For simple coding tasks I really like to use MacVim. I am experienced OS X user. Sometimes I use Linux and I try to avoid Windows as much as possible.
  > I consider myself an experienced Flash IDE user. I also have experience of other Adobe Creative Suite applications related to graphic and motion design.
 
 ## Experience
