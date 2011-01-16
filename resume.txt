@@ -2,13 +2,14 @@
 
  * <nikdudnik@gmail.com>
  * <http://nikdudnik.com>
- * 903-758-1022
+ * +7 (903) 758-1022
+ * skype: nikdudnik
 
 ## Background
 
-I am currently working at <http://ghcg.com> making Adobe Flex/Air user interfaces 
-for automated trading systems. My interest is concise creation of human usable software.
-I believe that good development practices is the way to deal with ever growing complexity of today's software projects. But you gotta be smart and don't make the practices your dogma. You need to experiment sometimes to improve the current practices and create the new ones. 
+I'm new media specialist proficient in the different skills needed to make a good interactive experience either it's an involving game-like site or a usable interface for an enterprise system. My arsenal of skills includes graphic design, UI design, UX, motion design and sound editing but my most honed skill is computer programming.
+
+I've spent last two years learning and mastering skills which let me deal with software development uncertainties. Now I couldn't live without proper software architecture, test driven development and automated build, test, deploy cycle. 
 
 ## Systems Proficiency
 
@@ -20,8 +21,8 @@ I believe that good development practices is the way to deal with ever growing c
 
 **Software**
 
- > I have experience using most of the IDEs for flash development including Flash Builder, FDT, FlashDevelop. My current tool of choice is IntelliJ Idea. For simple coding tasks I really like to use TextMate. I am experienced OS X user. Sometimes I use Linux and I try to avoid Windows as much as possible.
- > I consider myself an experienced Flash IDE user. I also have experience of other Adobe Creative Suite applications related to graphic and motion design.
+ > I have experience using most of the IDEs for flash development including Flash Builder, FDT, FlashDevelop. My current tool of choice is IntelliJ Idea. For simple coding tasks I really like to use MacVim. I am experienced OS X user. Sometimes I use Linux and I try to avoid Windows as much as possible.
+ > I'm experienced user of Adobe Creative Suite applications related to graphic and motion design. I've also used Lightwave 3D, Modo and Cinema 4D to make simple assets and animations.
 
 ## Experience
 
