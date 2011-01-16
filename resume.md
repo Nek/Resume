@@ -2,7 +2,7 @@
 
  * <nikdudnik@gmail.com>
  * <http://nikdudnik.com>
- * 903-758-1022
+ * +7 (903) 758-1022
 
 ## Background
 
