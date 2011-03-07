@@ -31,7 +31,7 @@ I've spent last two years learning and mastering skills which let me deal with s
 
 #### Senior Flex Developer
 
-##### May 2010 – Present
+##### May 2010 – February 2011
 
 The development of adobe air front-ends for in-house automated trade exchange system.
 
