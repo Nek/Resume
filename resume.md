@@ -15,9 +15,9 @@ I've spent last two years learning and mastering skills which let me deal with s
 
 **Programming Languages**
 
- > Proficient in:  ActionScript 1/2/3, Flex 3/4, HTML, CSS, JavaScript
+ > Proficient in:  ActionScript 1/2/3, Flex 4
 
- > Experience with: PHP, Ruby, CouchDB
+ > Experience with: HTML, CSS, JavaScript, Ruby, CouchDB
 
 **Software**
 
@@ -83,7 +83,7 @@ Design and production management of online television website with social networ
 
 ##### July 2006 – January 2007
 
-Flash development, motion design, multimedia development of promo sites, presentations, rich media banners for world renown brands. 
+Flash development, motion design, multimedia development of promo sites, presentations, rich media banners. 
 
  * Developed promo web sites and CD presentations.
  * Developed virus maketing flash games.
@@ -92,9 +92,9 @@ Flash development, motion design, multimedia development of promo sites, present
 
 #### Flash Developer, Motion Designer
 
-##### March 2004 – August 2004 (6 months)
+##### March 2004 – August 2004
 
-Flash sites and games development and animation for world renown brands. 
+Flash sites and games development and animation. 
 
  * Developed flash animations and promo sites.
  * Developed two flash games.
