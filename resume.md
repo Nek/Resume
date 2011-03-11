@@ -38,7 +38,7 @@ The development of adobe air front-ends for in-house automated trade exchange sy
  * Successfully finished several UI projects. 
  * Introduced acceptance testing in to the workflow.
  * Introduced test driven development in to the workflow.
- * Created an automated deploy system for air front-ends. 
+ * Introduced an automated build, test, deploy system for air front-ends. 
 
 ### Creatent
 
