@@ -33,9 +33,11 @@ I've spent last two years learning and mastering skills which let me deal with s
 
 ##### May 2010 – February 2011
 
-The development of adobe air front-ends for in-house automated trade exchange system.
+The development of adobe air front-ends.
 
- * Successfully finished several UI projects. 
+ * Successfully finished UI for trade exchange system. 
+ * Successfully finished UI and CouchDB based server-side of Instruments
+   Editor for in-house automated trading system. 
  * Introduced acceptance testing in to the workflow.
  * Introduced test driven development in to the workflow.
  * Introduced an automated build, test, deploy system for air front-ends. 
