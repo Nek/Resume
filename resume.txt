@@ -1,30 +1,52 @@
 # Nikita Dudnik
 
+## Contacts
  * <nikdudnik@gmail.com>
- * <http://nikdudnik.com>
  * skype: nikdudnik
+
+## Professional Networks
+ * <https://github.com/nek>
+ * <http://stackoverflow.com/users/195895/nek>
+ * <http://ru.linkedin.com/in/dudnik>
 
 ## Background
 
-I'm new media specialist proficient in the different skills needed to make a good interactive experience either it's an involving game-like site or a usable interface for an enterprise system. My arsenal of skills includes graphic design, UI design, UX, motion design and sound editing but my most honed skill is computer programming.
+I'm a professional front-end developer with real life experience in designing
+and programming of wide range of new media software products: from
+promotional games to enterprise apps user interfaces.
 
-I've spent last two years learning and mastering skills which let me deal with software development uncertainties. Now I couldn't live without proper software architecture, test driven development and automated build, test, deploy cycle. 
+My set of skills includes user interface design, user experience design understanding, motion design and sound editing, computer programming being my most honed skill. I talk both programmers' and graphic designers' languages.
+
+I have strong interest in development and management practices which help to get rid of uncertainties. I like agile approach, test driven development and stable workflow with automated testing and deployment.
+
+I would like to work on projects which let me use my skills to their
+fullest and improve them further. Developing fluid user interfaces of the
+future would be my dream job.
 
 ## Systems Proficiency
 
 **Programming Languages**
 
- > Proficient in:  ActionScript 1/2/3, Flex 4
+ > Proficient in:  ActionScript 1/2/3, Flex 4, Adobe Air
 
- > Experience with: HTML, CSS, JavaScript, Ruby, CouchDB
+ > Experience with: Flex 3, HTML, CSS, JavaScript, Ruby, CouchDB
 
 **Software**
 
- > I have experience using most of the IDEs for flash development including Flash Builder, FDT, FlashDevelop. My current tool of choice is IntelliJ Idea. For simple coding tasks I really like to use MacVim. I am experienced OS X user. Sometimes I use Linux and I try to avoid Windows as much as possible.
- > I'm experienced user of Adobe Creative Suite applications related to graphic and motion design. I've also used Lightwave 3D, Modo and Cinema 4D to make simple assets and animations.
+ > I used to program with Flash Builder and FlashDevelop. My current tool of choice is IntelliJ Idea. For simple coding tasks I really like to use MacVim. I am experienced OS X user. Sometimes I use Linux and I try to avoid Windows as much as possible.
+ > I'm experienced user of Adobe Creative Suite applications related to graphic and motion design. I've also used Lightwave 3D and Cinema 4D to make simple assets and animations.
 
 ## Experience
 
+### Freelancing
+
+#### Developer and Designer
+
+March 2011 - Today
+
+Design and development of flash apps and web sites.
+
+* Created flash-based video player for <http://www.topgearrussia.ru/>.
 
 ### Global Hedge Capital Group
 
@@ -32,14 +54,13 @@ I've spent last two years learning and mastering skills which let me deal with s
 
 ##### May 2010 – February 2011
 
-The development of adobe air front-ends.
+Development of adobe air front-ends.
 
- * Successfully finished UI for trade exchange system. 
- * Successfully finished UI and CouchDB based server-side of Instruments
-   Editor for in-house automated trading system. 
- * Introduced acceptance testing in to the workflow.
- * Introduced test driven development in to the workflow.
- * Introduced an automated build, test, deploy system for air front-ends. 
+ * Created UI for trade exchange system. 
+ * Created UI and CouchDB based server-side of Instruments Editor for in-house automated trading system. 
+ * Introduced acceptance testing into the workflow.
+ * Introduced test driven development into the workflow.
+ * Introduced an automated build, test, deploy system of adobe air based front-end. 
 
 ### Creatent
 
@@ -49,8 +70,8 @@ The development of adobe air front-ends.
 
 The development and support of flash games for the major Russian social networks.
 
- * Created UIs for one of the company's games.
- * Ported one of the company's games from the <http://vk.com> to <http://http://my.mail.ru>.
+ * Created UI for one of the company's games.
+ * Ported one of the company's games from <http://vk.com> to <http://http://my.mail.ru>.
 
 ### CyberHULL
 
